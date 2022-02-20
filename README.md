@@ -6,7 +6,6 @@
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-HiteshVijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiteshvijayhv/)](https://www.linkedin.com/in/hiteshvijayhv/) [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiteshvijay7@gmail.com)](mailto:hiteshvijay7@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=hiteshvijayhv)
 
   
   
